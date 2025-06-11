@@ -1,8 +1,8 @@
-import React from 'react'
-function Loginform() {
-  return (
-    <div>Loginform</div>
-  )
-}
+// import React from 'react'
+// function Loginform() {
+//   return (
+//     <div>Loginform</div>
+//   )
+// }
 
-export default Loginform
+// export default Loginform

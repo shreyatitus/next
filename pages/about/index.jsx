@@ -1,5 +1,5 @@
-import React from 'react'
-import {userState} from 'react'
+import React, { useState } from 'react'
+
 
 function index() {
   const[state,setState]=useState("hi alpha");
