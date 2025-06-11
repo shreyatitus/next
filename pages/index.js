@@ -48,15 +48,14 @@ console.log("ok")
   return (
     <>
     <h1>
-      email={email}
-      {password}
+      Home
     </h1>
-    <input type='text' onChange={handleState}/>
+    {/* <input type='text' onChange={handleState}/>
     <p>"enter your password"</p>
     <input type='password' onChange={handlePass}/>
     <p>"enter gmail</p>
     <input type='text' onChange={handleEmail}/>
-    <button onClick={handleSubmit}> submit</button>
+    <button onClick={handleSubmit}> submit</button> */}
 
     </>
    

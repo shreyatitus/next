@@ -1,9 +1,8 @@
 import React from 'react'
-
 function Loginform() {
   return (
-    <h1>Loginform</h1>
+    <div>Loginform</div>
   )
 }
 
-export default Loginform
+export default Loginform
